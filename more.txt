@@ -1,1 +1,2 @@
-this is some more text
+this is some more text.
+Now I've added some more text through emacs and I hope it is now easier to exit this app.
