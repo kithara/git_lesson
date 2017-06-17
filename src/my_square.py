@@ -7,7 +7,7 @@ def my_square(y):
 def my_cube(c):
 	""" thakes a number and cubes items
 	"""
-	return (y**3)
+	return (c**3)
 	
 print(my_square(7))
 print(my_cube(7))
