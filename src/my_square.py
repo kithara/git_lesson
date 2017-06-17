@@ -5,7 +5,8 @@ def my_square(y):
 	return (y ** 2)
 
 def my_cube(c):
-	""" thakes a number and cubes items
+	""" takes a number and cubes items
+	but this edit is to test yet another branch to test a pull request
 	"""
 	return (c**3)
 	
